@@ -1,0 +1,12 @@
+{
+	"browserName": "",
+	"platformName": "Android",
+	"platformVersion": "9.0",
+	"device": "Android",
+	"deviceName": "SamsungTabA",
+	"app": "C:/Users/kashish.pasrija/Downloads/whatsapp.apk",
+	"appPackage": "com.whatsapp",
+	"appActivity": "com.whatsapp.Main",
+	"automantionName": "UiAutomator2",
+	"url":"http://127.0.0.1:4723/wd/hub"
+}
